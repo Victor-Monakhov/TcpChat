@@ -1,0 +1,10 @@
+F:\11. ШАГ ВИТЯ\Основы программирования С#\ASP_NET\Homeworks\PV912_Monakhov_hw_5\server\bin\Debug\server.exe.config
+F:\11. ШАГ ВИТЯ\Основы программирования С#\ASP_NET\Homeworks\PV912_Monakhov_hw_5\server\bin\Debug\server.exe
+F:\11. ШАГ ВИТЯ\Основы программирования С#\ASP_NET\Homeworks\PV912_Monakhov_hw_5\server\bin\Debug\server.pdb
+F:\11. ШАГ ВИТЯ\Основы программирования С#\ASP_NET\Homeworks\PV912_Monakhov_hw_5\server\bin\Debug\Newtonsoft.Json.dll
+F:\11. ШАГ ВИТЯ\Основы программирования С#\ASP_NET\Homeworks\PV912_Monakhov_hw_5\server\bin\Debug\Newtonsoft.Json.xml
+F:\11. ШАГ ВИТЯ\Основы программирования С#\ASP_NET\Homeworks\PV912_Monakhov_hw_5\server\obj\Debug\server.csprojAssemblyReference.cache
+F:\11. ШАГ ВИТЯ\Основы программирования С#\ASP_NET\Homeworks\PV912_Monakhov_hw_5\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+F:\11. ШАГ ВИТЯ\Основы программирования С#\ASP_NET\Homeworks\PV912_Monakhov_hw_5\server\obj\Debug\server.csproj.CopyComplete
+F:\11. ШАГ ВИТЯ\Основы программирования С#\ASP_NET\Homeworks\PV912_Monakhov_hw_5\server\obj\Debug\server.exe
+F:\11. ШАГ ВИТЯ\Основы программирования С#\ASP_NET\Homeworks\PV912_Monakhov_hw_5\server\obj\Debug\server.pdb
